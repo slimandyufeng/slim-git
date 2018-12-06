@@ -1,2 +1,1 @@
-# slim-git
-师玲  git学习 测试
+# slim-git git学习 测试
